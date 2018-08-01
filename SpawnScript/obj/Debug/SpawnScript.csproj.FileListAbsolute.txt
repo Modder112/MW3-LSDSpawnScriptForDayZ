@@ -1,0 +1,6 @@
+c:\users\agando\documents\visual studio 2012\Projects\SpawnScript\SpawnScript\bin\Debug\SpawnScript.dll
+c:\users\agando\documents\visual studio 2012\Projects\SpawnScript\SpawnScript\bin\Debug\SpawnScript.pdb
+c:\users\agando\documents\visual studio 2012\Projects\SpawnScript\SpawnScript\bin\Debug\InfinityScript.dll
+c:\users\agando\documents\visual studio 2012\Projects\SpawnScript\SpawnScript\obj\Debug\SpawnScript.csprojResolveAssemblyReference.cache
+c:\users\agando\documents\visual studio 2012\Projects\SpawnScript\SpawnScript\obj\Debug\SpawnScript.dll
+c:\users\agando\documents\visual studio 2012\Projects\SpawnScript\SpawnScript\obj\Debug\SpawnScript.pdb

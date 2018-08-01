@@ -1,0 +1,6 @@
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\SpawnScript\motd\bin\Debug\motd.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\SpawnScript\motd\bin\Debug\motd.pdb
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\SpawnScript\motd\bin\Debug\InfinityScript.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\SpawnScript\motd\obj\Debug\motd.csprojResolveAssemblyReference.cache
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\SpawnScript\motd\obj\Debug\motd.dll
+C:\Users\Agando\Documents\Visual Studio 2012\Projects\SpawnScript\motd\obj\Debug\motd.pdb
